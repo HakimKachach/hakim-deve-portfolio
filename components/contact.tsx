@@ -85,8 +85,8 @@ export default function Contact() {
                   <Mail className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
                   <div>
                     <h4 className="font-bold text-foreground mb-1">Email</h4>
-                    <a href="mailto:hello@hakimdev.ma" className="text-primary hover:underline">
-                      hello@hakimdev.ma
+                    <a href="mailto:Contact@hakimdeve.site" className="text-primary hover:underline">
+                      Contact@hakimdeve.site
                     </a>
                   </div>
                 </Card>
@@ -95,8 +95,8 @@ export default function Contact() {
                   <MessageSquare className="w-6 h-6 text-primary flex-shrink-0 mt-1" />
                   <div>
                     <h4 className="font-bold text-foreground mb-1">WhatsApp</h4>
-                    <a href="https://wa.me/212612345678" className="text-primary hover:underline">
-                      +212 6 12 34 56 78
+                    <a href="https://wa.me/212617441183" className="text-primary hover:underline">
+                      +212 6 17 44 11 83
                     </a>
                   </div>
                 </Card>
